@@ -1,10 +1,10 @@
 html {
-  font-size: 18px;
+  font-family: 'Inconsolata', monospace;
+  font-size: 24px;
   padding: 0 10vw;
 }
 
 body {
-  font-family: 'Inconsolata', monospace;
   max-width: 800px;
   margin: 6rem auto;
 }
